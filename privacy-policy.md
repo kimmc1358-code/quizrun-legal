@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: September 5, 2026**
+**Last updated: October 29, 2026**
 
 JANIJU STUDIO ("we," "us," or "our") operates the mobile game **QuizRun: Dual Gate** (the "Game").
 
@@ -58,7 +58,26 @@ For more information about Google's privacy practices, please review Google's Pr
 
 https://policies.google.com/privacy
 
-### 1.4 In-App Purchase Information
+### 1.4 Analytics Information
+
+The Game uses **Google Analytics for Firebase** to understand how the Game is played — for example, which modes are played, how far players progress, whether the tutorial is completed, and whether optional features such as reviving or sharing are used.
+
+Google Analytics for Firebase may collect or process certain information, which may include:
+
+- App interactions and in-game events (for example, starting and finishing a run, the score reached, and tutorial completion)
+- An app instance identifier
+- Device information, such as device model and operating system version
+- Approximate location derived from the IP address
+
+Analytics is turned on only in regions where consent is not required. For players in the European Economic Area, the United Kingdom, and Switzerland, analytics collection stays turned off.
+
+We use this information in aggregate to improve the Game, such as its design and difficulty. We do not use it to identify individual players.
+
+For more information, please review Firebase's privacy information:
+
+https://firebase.google.com/support/privacy
+
+### 1.5 In-App Purchase Information
 
 The Game may offer in-app purchases, including an option to remove advertisements.
 
@@ -68,7 +87,7 @@ We do not directly receive or store your full payment card or banking informatio
 
 We may receive or process limited purchase-related information necessary to verify purchases, restore purchased features, prevent fraud, and provide purchased content or functionality.
 
-### 1.5 Information We Do Not Intentionally Collect
+### 1.6 Information We Do Not Intentionally Collect
 
 We do not intentionally request or directly collect through the Game information such as:
 
@@ -97,6 +116,7 @@ Information collected or processed through the Game may be used to:
 - Maintain security and prevent fraud or abuse
 - Diagnose technical issues
 - Monitor and improve game performance and functionality
+- Understand how the Game is played, in aggregate, to improve its design and difficulty
 - Comply with applicable legal obligations
 
 We do not sell your personal information.
@@ -116,6 +136,7 @@ The third-party services currently used by the Game include:
 | Google Play Games Services | Player sign-in and leaderboard functionality |
 | Google AdMob | Advertising and ad measurement |
 | Google Play Billing | Processing and verification of in-app purchases |
+| Google Analytics for Firebase | Aggregate usage analytics (only where consent is not required) |
 
 For more information about how Google handles information, please review:
 
@@ -127,6 +148,9 @@ https://developers.google.com/games/services
 
 **Google AdMob:**  
 https://admob.google.com/
+
+**Google Analytics for Firebase:**  
+https://firebase.google.com/support/privacy
 
 **Google Play:**  
 https://play.google.com/about/
@@ -142,6 +166,8 @@ The Game may display advertisements through Google AdMob.
 Depending on your country or region, applicable law, device settings, and Google services, you may be provided with options regarding advertising consent, personalized advertising, or the use of certain identifiers.
 
 Where required, the Game may display a consent or privacy message that allows you to make applicable advertising privacy choices.
+
+If such a message was shown to you, you can review or change your choice at any time from the Game's **Settings > Ad Privacy Choices**.
 
 You may also be able to manage certain advertising and privacy settings through your device or Google account settings.
 
@@ -172,7 +198,7 @@ Gameplay data stored locally on your device generally remains on the device unti
 - Uninstall the Game
 - Otherwise remove the data through your device settings
 
-Information processed by third-party services, including Google Play Games Services, Google AdMob, and Google Play Billing, may be retained by Google according to Google's own retention policies and applicable legal requirements.
+Information processed by third-party services, including Google Play Games Services, Google AdMob, Google Analytics for Firebase, and Google Play Billing, may be retained by Google according to Google's own retention policies and applicable legal requirements.
 
 We retain information that we directly control only for as long as reasonably necessary for the purposes described in this Privacy Policy or as required by applicable law.
 
